@@ -24,5 +24,5 @@
 <p align="center" width="100%">
   
   <br>
-  <img width="800" align="center" src=""/>
+  <img width="800" align="center" src="https://github.com/GabrielDeNobrega/workshop-springboot3-jpa/assets/84252664/b2504cf7-b58a-4453-9847-7b66caa83700"/>
 </p>
